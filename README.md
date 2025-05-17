@@ -92,9 +92,9 @@ Edit
 
 ### ✅ Notes:
 
-- Rename your screenshots to `![Screenshot (22)](https://github.com/user-attachments/assets/68f86938-d9a1-46b0-9acd-b792267e222e)
-`, `![Screenshot (23)](https://github.com/user-attachments/assets/4f25a5b5-3664-44f5-b07f-7fd987ffd097)
-`, and `![Screenshot (24)](https://github.com/user-attachments/assets/cc480417-6e9f-47bf-839b-b1b497bc0685)
+- Rename your screenshots to ![Screenshot (22)](https://github.com/user-attachments/assets/68f86938-d9a1-46b0-9acd-b792267e222e)
+, ![Screenshot (23)](https://github.com/user-attachments/assets/4f25a5b5-3664-44f5-b07f-7fd987ffd097)
+, and ![Screenshot (24)](https://github.com/user-attachments/assets/cc480417-6e9f-47bf-839b-b1b497bc0685)
 ` 
 - Add your actual GitHub and LinkedIn URLs in the author section.
 - Update the license if you are using a different one.
