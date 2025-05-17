@@ -1,82 +1,98 @@
-# To-Do-List
+# 📝 To-Do List App
 
-<img width="950" alt="{C4591A30-5564-48AD-9ACC-1DAA32FA68B4}" src="https://github.com/user-attachments/assets/927a61f2-0908-4b76-98fd-7a77191b0177">
+A simple and intuitive web-based To-Do List Application to help you organize your life, manage tasks efficiently, and boost productivity.
 
-- Simple
-- Interactive
-- Built with HTML, CSS, and JavaScript
+---
 
-## Features
+## 🚀 Live Demo
 
-- Add new tasks
-- Edit existing tasks
-- Delete tasks
-- Set a date for each task
-- Responsive design
-- Time feature
-- Sort By Priority
-- Sort By Time
+> *This is a local project. To view it, download the files and open `index.html` in your browser.*
 
-## Installation
+---
 
-Clone the repository:
+## 📸 Screenshots
 
-```bash
-git clone https://github.com/Anshgrover23/To-Do-List.git
-```
+### ✅ Home Page
+![Home Page](screenshots/screenshot-home.png)
 
-Open `index.html` in your browser to use the application.
+### 📋 Importance of To-Do List
+![Importance Page](screenshots/screenshot-importance.png)
 
-## Usage
+### 🗓️ Task Manager
+![To-Do Page](screenshots/screenshot-todo.png)
 
-- **Add a Task:** Enter a task in the input field and click the "Add" button.
-- **Task Adding Limitation:** User can not add todo without given full details
-- **Edit a Task:** Click the edit icon next to the task, make your changes, and save.
-- **Delete a Task:** Click the delete icon next to the task.
+---
 
-## Linting and Formatting
+## 💡 Features
 
-This project uses **ESLint** and **Prettier** to ensure code quality and consistency.
+- 🎯 Simple and user-friendly interface
+- 📆 Add tasks with date & time
+- 🔖 Categorize tasks
+- ⚡ Set task priorities
+- 🔄 Sort tasks by category or priority
+- 📉 View total tasks in real-time
+- 📲 Responsive design for various screen sizes
 
-- **ESLint** helps identify and fix problems in your JavaScript code.
-- **Prettier** automatically formats your code to follow consistent styling rules.
+---
 
-### Running the Linter
+## 📂 Project Structure
 
-To check your code for issues, run the following command:
+To-Do-List/
+│
+├── index.html # Main landing page
+├── imp.html # Page explaining the importance of to-do lists
+├── Todo.html # Functional to-do list page
+├── styles/ # CSS styling
+├── scripts/ # JavaScript functionality
+└── assets/ # Images, icons, etc.
 
-```bash
-npm run lint
-```
 
-This command will execute ESLint on your project files and report any errors or warnings.
+---
 
-### Running the Formatter
+## 🛠️ Built With
 
-To format your code, run the following command:
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
 
-```bash
-npm run format
-```
+---
 
-This command will execute Prettier on your project files and apply consistent formatting according to the rules defined in your configuration.
+## 🧑‍💻 Author
 
-## Contribution Guide:
+**Sparsha B T**  
+💖 Made with passion and dedication  
+🔗 [LinkedIn](https://www.linkedin.com/in/sparsha-b-t-3157592a2/) | [GitHub](https://github.com/Sparshmogveer)
+---
 
-For detailed instructions on how to contribute, please check out the [CONTRIBUTING.md](CONTRIBUTING.md) file.
+## 📌 How to Use
 
-Let's make this project even better together! 🎉
+1. Download or clone the repository:
+   ```bash
+   git clone https://github.com/Sparshmogveer/TO-DO-LIST.git
+Open index.html in your browser.
 
-## 👀 Our Contributors
+Navigate through the app using the navigation bar.
 
-- We extend our heartfelt gratitude for your invaluable contribution to our project! Your efforts play a pivotal role in elevating To-Do-List to greater heights.
-- Make sure you show some love by giving ⭐ to our repository.
+Start organizing your day!
 
-<div align="center">
+📜 License
+This project is licensed under the MIT License - feel free to use, modify, and share!
 
-  <a href="https://github.com/Groverio/To-Do-List">
-    <img src="https://contrib.rocks/image?repo=Groverio/To-Do-List" />
-  </a>
-</div>
+🙌 Acknowledgements
+Thanks to everyone who supported and inspired this project.
 
-Feel free to reach out to either of us for any issues or contributions.
+Icon sources: Font Awesome or respective icon libraries.
+
+yaml
+Copy
+Edit
+
+---
+
+### ✅ Notes:
+
+- Rename your screenshots to `screenshot-home.png`, `screenshot-importance.png`, and `screenshot-todo.png` and store them in a folder named `screenshots` in your GitHub repo.
+- Add your actual GitHub and LinkedIn URLs in the author section.
+- Update the license if you are using a different one.
+
+Let me know if you'd like a dark mode toggle or task saving using localStorage added
